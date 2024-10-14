@@ -290,3 +290,7 @@ JOIN CuentasBancarias cb ON c.ClienteID = cb.ClienteID;
 
 Select*
 from VistaClienteCuenta;
+
+select*
+from Clientes;
+
